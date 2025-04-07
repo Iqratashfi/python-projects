@@ -13,7 +13,7 @@ elif operation == "/":
     if num2 != 0:
         result = num1 / num2
     else:
-        print(" error cant divide by zero")
+        print(" Error cant divide by zero")
 else:
     result = "Inavalid operation"
 
