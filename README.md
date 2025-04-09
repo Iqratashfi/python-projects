@@ -9,8 +9,8 @@ This repository showcases my journey of learning Python through hands-on practic
 Beginner-level programs to strengthen core Python concepts.
 
 - `basic_calculator.py` - A simple calculator that performs +, -, *, and / operations using user input.
-"madlibs.py" - A fun Mad Libs game that generates a silly story using your words.
-"even_numbers.py" - Prints even numbers between 1 and 50.
+- `madlibs.py` - A fun Mad Libs game that generates a silly story using your words.
+- `even_numbers.py` - Prints even numbers between 1 and 50.
 
 # Skills I Practiced
 
