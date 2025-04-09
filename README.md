@@ -28,7 +28,7 @@ To document my Python learning journey and build a strong foundation for:
 - Mini projects & freelance work 
 - Creative coding & automation ideas 
 
-# 🚀 How to Run the Programs
+# How to Run the Programs
 
 Clone the repository:
 
