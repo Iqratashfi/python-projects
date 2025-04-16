@@ -10,7 +10,6 @@ This Python script gives adorable compliments to brighten your day! It asks your
 
 ## Why It’s Lovely
 
-- Boosts confidence instantly!
 - Simple, fun, and perfect for Python beginners
 - Easy to extend with your own compliments or ideas!
 
