@@ -1,7 +1,7 @@
 #  Basic Python Projects
 
 Welcome to my little corner of Python practice!  
-This repo is filled with fun and beginner-friendly Python mini projects I created while learning — and enjoying — every bit of it 
+This repo is filled with fun and beginner-friendly Python mini projects I created while learning and enjoying every bit of it 
 
 ---
 
