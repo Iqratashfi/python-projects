@@ -5,26 +5,26 @@ This repo is filled with fun and beginner-friendly Python mini projects I create
 
 ---
 
-## 📁 Projects So Far
+# PROJECTS SO FAR
 
-### 🔢 Calculator  
+# Calculator  
 A basic calculator that performs addition, subtraction, multiplication, and division.
 
-### 😂 Mad Libs Game  
-A funny story generator based on your input. Try not to laugh too hard!
+# Mad Libs Game  
+A funny story generator based on your input. Try not to laugh.
 
-### 🎯 Guess the Number  
+# Guess the Number  
 The computer picks a secret number between 1 and 100, and you try to guess it.
 
-### ✨ Compliment Generator  
-Because we all deserve to hear something sweet and kind — especially when learning to code 💕
+# Compliment Generator  
+Because we all deserve to hear something sweet and kind — especially when learning to code 
 
-### 🪨 📄 ✂️ Rock, Paper, Scissors  
-Play against the computer and see who wins the ultimate showdown!
+# Rock, Paper, Scissors  
+Play against the computer and see who wins the showdown.
 
 ---
 
-## 🛠 Skills Practiced
+# Skills Practiced
 
 - `input()` and user interaction
 - Conditional statements (`if`, `elif`, `else`)
@@ -35,7 +35,7 @@ Play against the computer and see who wins the ultimate showdown!
 
 ---
 
-## 💡 Why This Repo?
+# Why This Repo?
 
 - Easy to follow for absolute beginners
 - Fun and motivating!
@@ -44,12 +44,12 @@ Play against the computer and see who wins the ultimate showdown!
 
 ---
 
-## 👩🏻‍💻 About Me
+# About Me
 
 **Iqra Tashfi Ahmed**  
-🚀 Final-year Computer Science Student  
-💡 Passionate about Python, Web Dev, and SpaceTech  
-📫 [iqratashfi07@gmail.com](mailto:iqratashfi07@gmail.com)  
+🌟 Final-year Computer Science Student  
+🌟 Passionate about Python, Web Dev, and SpaceTech  
+🌟 [iqratashfi07@gmail.com](mailto:iqratashfi07@gmail.com)  
 🌟 [My GitHub Profile](https://github.com/Iqratashfi)
 
 ---
