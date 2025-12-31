@@ -24,15 +24,11 @@ Play against the computer and see who wins the showdown.
 
 ---
 
-# Skills Practiced
-
-- `input()` and user interaction
-- Conditional statements (`if`, `elif`, `else`)
-- `while` loops and game logic
-- Randomness with `random` module
-- String manipulation and formatting
-- Basic score tracking and logic building
-
+### What I’m Currently Working On
+- Data Analytics projects using Python and Pandas  
+- Exploratory Data Analysis (EDA) on real-world datasets  
+- Machine Learning fundamentals (Logistic Regression, Model Evaluation)  
+- Improving SQL and data storytelling skills
 ---
 
 # Why This Repo?
