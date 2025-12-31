@@ -24,17 +24,18 @@ Play against the computer and see who wins the showdown.
 
 ---
 
-### What I’m Currently Working On
-- Data Analytics projects using Python and Pandas  
-- Exploratory Data Analysis (EDA) on real-world datasets  
-- Machine Learning fundamentals (Logistic Regression, Model Evaluation)  
-- Improving SQL and data storytelling skills
+### Skills
+1. Python basics, Variables & Data Types
+2. Conditional Statements (if/else), Loops (for, while)
+3. Functions, User Input & Output
+4. Basic Game Logic
+5. String Manipulation
 ---
 
 # Why This Repo?
 
 - Easy to follow for absolute beginners
-- Fun and motivating!
+- Fun and motivating.
 - Shows steady progress and consistent practice
 - Perfect starting point for anyone learning Python
 
