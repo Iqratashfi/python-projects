@@ -17,7 +17,7 @@ A funny story generator based on your input. Try not to laugh.
 The computer picks a secret number between 1 and 100, and you try to guess it.
 
 # Compliment Generator  
-Because we all deserve to hear something sweet and kind — especially when learning to code 
+Because we all deserve to hear something sweet especially when learning to code 
 
 # Rock, Paper, Scissors  
 Play against the computer and see who wins the showdown.
@@ -47,11 +47,11 @@ Play against the computer and see who wins the showdown.
 # About Me
 
 **Iqra Tashfi Ahmed**  
-🌟 Final-year Computer Science Student  
-🌟 Passionate about Python, Web Dev, and SpaceTech  
-🌟 [iqratashfi07@gmail.com](mailto:iqratashfi07@gmail.com)  
-🌟 [My GitHub Profile](https://github.com/Iqratashfi)
+-Computer Science Engineering Graduate  
+-Aspiring to be Data Analyst / Data Scientist  
+-Skilled in Python, Pandas, SQL, and Data Visualization  
 
+📧 Email: iqratashfi07@gmail.com  
 ---
 
-Made with so much love, curiosity, and a lil bit of magic ✨
+Made with so much love and curiosity
